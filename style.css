@@ -606,14 +606,14 @@ body.scrolled .header--navbar {
 
 /* 3.1. BANNER CONTENT */
 .banner--content {
-    width:40%;
+    width:30%;
     color: #303030;
 }
 
 .banner--content h2 {
     margin-top: 0;
     font-weight: 800;
-    font-size: 36px;
+    font-size: 26px;
     text-transform: uppercase;
 }
 
